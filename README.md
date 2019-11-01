@@ -1,6 +1,6 @@
 # hacker-news-ember
 
-[![npm version](https://badge.fury.io/js/svelte.svg)](https://badge.fury.io/js/svelte)
+[![npm version](https://badge.fury.io/js/ember.svg)](https://badge.fury.io/js/ember)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/dj0nny/hacker-news-ember#readme)
 
